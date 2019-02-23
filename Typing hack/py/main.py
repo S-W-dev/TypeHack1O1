@@ -30,6 +30,7 @@ w = 'w'
 x = 'x'
 y = 'y'
 z = 'z'
+SPACE = ' '
 
 def type(key):
             keyboard.press(str(key))
