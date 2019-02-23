@@ -23,7 +23,7 @@ p = 'p'
 q = 'q'
 r = 'r'
 s = 's'
-a = 't'
+t = 't'
 u = 'u'
 v = 'v'
 w = 'w'
@@ -43,5 +43,5 @@ def mtype(e, a):
         type(e)
         i = i + 1
 
-type('a')
-mtype('b', 3)
+type(a)
+mtype(b, 3)
