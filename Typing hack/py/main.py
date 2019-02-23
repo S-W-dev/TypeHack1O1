@@ -10,7 +10,9 @@ def typeit():
     print("Typing in 5 seconds...")
     sleep(5)
     for i in range(len(sentenceArr)):
+        sleep(1/900)
         keyboard.press(sentenceArr[i])
         keyboard.release(sentenceArr[i])
     print("Done!")
+    typeit()
 typeit()
