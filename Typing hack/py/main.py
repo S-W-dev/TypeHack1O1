@@ -31,17 +31,17 @@ x = 'x'
 y = 'y'
 z = 'z'
 
-def type(e):
-            keyboard.press(str(e))
-            keyboard.release(str(e))
+def type(key):
+            keyboard.press(str(key))
+            keyboard.release(str(key))
 
 
-def mtype(e, a):
+def mtype(key, time):
 
-    i = 0
-    while i < a:
-        type(e)
-        i = i + 1
+    amount = 0
+    while amount < time:
+        type(key)
+        amount = amount + 1
 
 type(a)
 mtype(b, 3)
