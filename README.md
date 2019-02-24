@@ -3,7 +3,7 @@
 ## Quick note from the developers
 
 This program is not what you think it might be. It might appear to log to the console but it is actually simulating keypresses using the pynput program. To run this it will require you install pynput.
-```batch
+```python
 pip install pynput
 ```
 
@@ -29,7 +29,7 @@ If you have any problems or need extra help then navigate to the [issues](https:
 ##### Levels
 
 There are certain levels that this program uses. The levels are copies of the text that is typed on [Typing.com](https://typing.com/). Levels Listed below:
-```
+```python
 359-1
 359-2
 359-3
