@@ -4,13 +4,15 @@ from pynput.keyboard import Key, Controller
 
 keyboard = Controller()
 
+wpm = 100
+
 def typeit():
         sentence = input("Enter what you would like to type: ")
         sentenceArr = list(sentence)
         print("Typing in 5 seconds...")
         sleep(5)
         for i in range(len(sentenceArr)):
-            sleep((len(sentenceArr)/5)/2000)
+            sleep((len(sentenceArr)/5/wpm*60)/len(sentenceArr))
             keyboard.press(sentenceArr[i])
             keyboard.release(sentenceArr[i])
         print("Done!")
@@ -24,7 +26,7 @@ def typelevel():
         print("Typing in 5 seconds...")
         sleep(5)
         for i in range(len(sentenceArr)):
-            sleep((len(sentenceArr)/5)/2000)
+            sleep((len(sentenceArr)/5/wpm*60)/len(sentenceArr))
             keyboard.press(sentenceArr[i])
             keyboard.release(sentenceArr[i])
         print("Done!")
