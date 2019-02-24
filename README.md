@@ -12,6 +12,16 @@ If you aren't on windows then try this code in a terminal:
 pip install pynput
 ```
 
+##Table of contents
+
+##### How to use
+##### Installation for Windows computers
+##### Installation for computers running python 3.7.2 (see top)
+##### Starting for the first time
+##### Levels
+##### For Developers
+
+
 ## How to use
 
 ##### Installation for Windows computers
