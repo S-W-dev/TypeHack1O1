@@ -14,12 +14,14 @@ pip install pynput
 
 ##Table of contents
 
-[How to use](## How to use)
-[Installation for Windows Computers](##### Installation for Windows computers)
-[Installation for computers running python 3.7.2](##### Installation for computers running python 3.7.2 (see top))
-[Starting for the first time](##### Starting for the first time)
-[Levels](##### Levels)
-[For Developers](##### For Developers)
+-[TypeHack1O1](https://github.com/S-W-dev/TypeHack1O1/blob/master/README.md#typehack1o1)\
+-[Quick note!](https://github.com/S-W-dev/TypeHack1O1/blob/master/README.md#quick-note)\
+-[How to use](https://github.com/S-W-dev/TypeHack1O1/blob/master/README.md#how-to-use)\
+-[Installation for Windows Computers](https://github.com/S-W-dev/TypeHack1O1/blob/master/README.md#installation-for-windows-computers)\
+-[Installation for computers running python 3.7.2](https://github.com/S-W-dev/TypeHack1O1/blob/master/README.md#installation-for-computers-running-python-372-see-top)\
+-[Starting for the first time](https://github.com/S-W-dev/TypeHack1O1/blob/master/README.md#starting-for-the-first-time)\
+-[Levels](https://github.com/S-W-dev/TypeHack1O1/blob/master/README.md#levels)\
+-[For Developers](https://github.com/S-W-dev/TypeHack1O1/blob/master/README.md#for-developers)\
 
 
 ## How to use
