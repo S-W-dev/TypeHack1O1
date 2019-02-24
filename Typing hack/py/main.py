@@ -4,7 +4,11 @@ from pynput.keyboard import Key, Controller
 
 keyboard = Controller()
 
-wpm = 919
+wpm = int(input("Enter your wanted wpm (1-919) "))
+if(wpm>919):
+        wpm = 919
+if(wpm<1):
+        wpm = 1
 
 def typeit():
         sentence = input("Enter what you would like to type: ")
