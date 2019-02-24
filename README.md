@@ -2,9 +2,14 @@
 
 ## Quick note!
 
-If you are running this on a computer that is not Windows, then make sure you have python 3.7.2 installed and have pynput installed. To install pynput open cmd and run the following pip command below.
+If you are running this on a computer that is not Windows, then make sure you have python 3.7.2 installed and have pynput installed. To install pynput on windows, open cmd and run the following pip command below.
 ```python
 py -m pip install pynput
+```
+
+If you aren't on windows then try this code in a terminal:
+```python
+pip install pynput
 ```
 
 ## How to use
