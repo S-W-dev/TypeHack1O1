@@ -14,12 +14,12 @@ pip install pynput
 
 ##Table of contents
 
-##### How to use
-##### Installation for Windows computers
-##### Installation for computers running python 3.7.2 (see top)
-##### Starting for the first time
-##### Levels
-##### For Developers
+[How to use](## How to use)
+[Installation for Windows Computers](##### Installation for Windows computers)
+[Installation for computers running python 3.7.2](##### Installation for computers running python 3.7.2 (see top))
+[Starting for the first time](##### Starting for the first time)
+[Levels](##### Levels)
+[For Developers](##### For Developers)
 
 
 ## How to use
