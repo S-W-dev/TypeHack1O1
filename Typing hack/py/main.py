@@ -4,7 +4,7 @@ from pynput.keyboard import Key, Controller
 
 keyboard = Controller()
 
-wpm = 100
+wpm = 919
 
 def typeit():
         sentence = input("Enter what you would like to type: ")
