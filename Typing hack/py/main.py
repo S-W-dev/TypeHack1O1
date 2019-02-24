@@ -10,7 +10,7 @@ def typeit():
         print("Typing in 5 seconds...")
         sleep(5)
         for i in range(len(sentenceArr)):
-            sleep(1/900)
+            sleep((len(sentenceArr)/5)/2000)
             keyboard.press(sentenceArr[i])
             keyboard.release(sentenceArr[i])
         print("Done!")
@@ -24,14 +24,14 @@ def typelevel():
         print("Typing in 5 seconds...")
         sleep(5)
         for i in range(len(sentenceArr)):
-            sleep(1/900)
+            sleep((len(sentenceArr)/5)/2000)
             keyboard.press(sentenceArr[i])
             keyboard.release(sentenceArr[i])
         print("Done!")
         Main()
 
 def Main():
-    levelornot = input("Would you like to type a custom thing or a level? (C or L)").lower
+    levelornot = input("Would you like to type a custom thing or a level? (C or L) ").lower()
 
     if(levelornot == 'l'):
         typelevel()
