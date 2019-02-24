@@ -22,7 +22,7 @@ If you have any problems or need extra help then navigate to the [issues](https:
 
 Thank you for choosing TypeHack1O1. This short section will teach you how to use the hack. To install, first download zip from github, then unzip it. Navigate to this path:
 ```
-C:\path\to\typehack\folder\TypeHack1O1\Products\Releases\
+\path\to\typehack\folder\TypeHack1O1\Products\Releases\
 ```
 Open the folder that shows the latest version, and unzip the zip file. Then open the 'Typing hack' folder, and then open the 'py' folder. If you can't find a py folder, then make sure you can see hidden files. Open the py folder and run 'main.py'
 You have now installed TypeHack.
