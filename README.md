@@ -28,7 +28,7 @@ If you have any problems or need extra help then navigate to the [issues](https:
 
 ##### Levels
 
-There are certain levels that this program uses. The levels are copies of the text that is typed on [Typing.cpm](https://typing.com/). Levels Listed below:
+There are certain levels that this program uses. The levels are copies of the text that is typed on [Typing.com](https://typing.com/). Levels Listed below:
 ```
 359-1
 359-2
