@@ -2,9 +2,9 @@
 
 ## Quick note from the developers
 
-This program is not what you think it might be. It might appear to log to the console but it is actually simulating keypresses using the pynput program. To run this it will require you install pynput.
+If you are running this on a computer that is not Windows, then make sure you have python 3.7.2 installed and have pynput installed. To install pynput open cmd and run the following pip command below.
 ```python
-pip install pynput
+py -m pip install pynput
 ```
 
 ## How to use
