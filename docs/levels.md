@@ -1,8 +1,8 @@
 # Levels
 
-##### Levels listed below.
-
 [<-- Go Back](../README.md)
+
+##### Levels listed below.
 
 ## Levels for typing.com
 ##### J, F, and Space
