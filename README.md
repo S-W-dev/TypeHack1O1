@@ -1,5 +1,13 @@
 # TypeHack1O1
 
+## Release Notes
+
+[click here](docs/release.md) for the full list of release notes for all versions.
+
+##### Version 1.1
+
+I ran out of time in class give me 30 min. hehe
+
 ## Quick note!
 
 If you are running this on a computer that is not Windows, then make sure you have python 3.7.2 installed and have pynput installed. To install pynput on windows, open cmd and run the following pip command below.
