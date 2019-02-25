@@ -14,14 +14,15 @@ pip install pynput
 
 ## Table of contents
 
-- [TypeHack1O1](https://github.com/S-W-dev/TypeHack1O1/blob/master/README.md#typehack1o1)
-- [Quick note!](https://github.com/S-W-dev/TypeHack1O1/blob/master/README.md#quick-note)
-- [How to use](https://github.com/S-W-dev/TypeHack1O1/blob/master/README.md#how-to-use)
-- [Installation for Windows Computers](https://github.com/S-W-dev/TypeHack1O1/blob/master/README.md#installation-for-windows-computers)
-- [Installation for computers running python 3.7.2](https://github.com/S-W-dev/TypeHack1O1/blob/master/README.md#installation-for-computers-running-python-372-see-top)
-- [Starting for the first time](https://github.com/S-W-dev/TypeHack1O1/blob/master/README.md#starting-for-the-first-time)
+- [TypeHack1O1](#typehack1o1)
+- [Quick note!](#quick-note)
+- [How to use](#how-to-use)
+- [Installation for Windows Computers](#installation-for-windows-computers)
+- [Installation for computers running python 3.7.2](#installation-for-computers-running-python-372-see-top)
+- [Starting for the first time](#starting-for-the-first-time)
 - [Levels](docs/levels.md)
 - [For Developers](#for-developers)
+- [Build your own levels!](#build-your-own-levels)
 
 
 ## How to use
@@ -60,3 +61,17 @@ There are certain levels that this program uses. The levels are copies of the te
 ## For Developers
 
 Hello fellow developers! I'm glad the TypeHack has interested you! I would like to add that the more people who are interested and working with this project the better! If you would like to join the team just post a new issue and tell me why I should accept you! (you will probably be accepted as long as you are great at python)
+
+## Build your own levels
+
+I see we have some creative people out there who want to venture out and build their own typing levels using our program! Well the good news is, our developers use a simple program to add their own levels and you can use it too! This program is called level_creator.py and comes with every installation of this repository. You can find instruction to find it below!
+
+###### How to find the level_creator.py
+
+I knew some people would not be able to find it, so here is a quick tutorial to find it.\
+Navigate to this path:
+```
+Path/To/Your/typehack/folder/Typing hack/py/
+```
+If you can't find the 'py' folder, then make sure you are able to see hidden files. Then, there should be a list of files. Find the file called level_creator.py and run it. It's as simple as that. Once you start the program, the name is for the name of your level. Then, for the string, type whatever you want the program to type. Press enter, and then close the program. If you start the main.py / main.exe file then you should be able to use the name of your level inside the program.\
+If you have any problems or need extra help then navigate to the [issues](https://github.com/S-W-dev/TypeHack1O1/issues) page and post a new issue.
