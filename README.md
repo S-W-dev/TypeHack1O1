@@ -21,7 +21,7 @@ pip install pynput
 - [Installation for computers running python 3.7.2](https://github.com/S-W-dev/TypeHack1O1/blob/master/README.md#installation-for-computers-running-python-372-see-top)
 - [Starting for the first time](https://github.com/S-W-dev/TypeHack1O1/blob/master/README.md#starting-for-the-first-time)
 - [Levels](docs/levels.md)
-- [For Developers](https://github.com/S-W-dev/TypeHack1O1/blob/master/README.md#for-developers)
+- [For Developers](#for-developers)
 
 
 ## How to use
