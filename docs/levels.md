@@ -2,7 +2,7 @@
 
 ##### Levels listed below.
 
-[Go Back <--]()
+[<-- Go Back](../readme.md)
 
 - [359-1](https://github.com/S-W-dev/TypeHack1O1/blob/master/Typing%20hack/py/levels/359-1.txt)
 - [359-2](https://github.com/S-W-dev/TypeHack1O1/blob/master/Typing%20hack/py/levels/359-2.txt)
@@ -74,3 +74,5 @@
 - [382-8](https://github.com/S-W-dev/TypeHack1O1/blob/master/Typing%20hack/py/levels/382-8.txt)
 - [382-9](https://github.com/S-W-dev/TypeHack1O1/blob/master/Typing%20hack/py/levels/382-9.txt)
 - [382-10](https://github.com/S-W-dev/TypeHack1O1/blob/master/Typing%20hack/py/levels/382-10.txt)
+
+[<-- Go Back](../readme.md)
