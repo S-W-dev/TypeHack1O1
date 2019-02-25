@@ -4,6 +4,8 @@
 
 [<-- Go Back](../README.md)
 
+## Levels for typing.com
+##### J, F, and Space
 - [359-1](https://github.com/S-W-dev/TypeHack1O1/blob/master/Typing%20hack/py/levels/359-1.txt)
 - [359-2](https://github.com/S-W-dev/TypeHack1O1/blob/master/Typing%20hack/py/levels/359-2.txt)
 - [359-3](https://github.com/S-W-dev/TypeHack1O1/blob/master/Typing%20hack/py/levels/359-3.txt)
@@ -15,6 +17,7 @@
 - [359-9](https://github.com/S-W-dev/TypeHack1O1/blob/master/Typing%20hack/py/levels/359-9.txt)
 - [359-10](https://github.com/S-W-dev/TypeHack1O1/blob/master/Typing%20hack/py/levels/359-10.txt)
 - [359-11](https://github.com/S-W-dev/TypeHack1O1/blob/master/Typing%20hack/py/levels/359-11.txt)
+##### U, R, and K
 - [360-1](https://github.com/S-W-dev/TypeHack1O1/blob/master/Typing%20hack/py/levels/360-1.txt)
 - [360-2](https://github.com/S-W-dev/TypeHack1O1/blob/master/Typing%20hack/py/levels/360-2.txt)
 - [360-3](https://github.com/S-W-dev/TypeHack1O1/blob/master/Typing%20hack/py/levels/360-3.txt)
@@ -29,6 +32,7 @@
 - [360-12](https://github.com/S-W-dev/TypeHack1O1/blob/master/Typing%20hack/py/levels/360-12.txt)
 - [360-13](https://github.com/S-W-dev/TypeHack1O1/blob/master/Typing%20hack/py/levels/360-13.txt)
 - [360-14](https://github.com/S-W-dev/TypeHack1O1/blob/master/Typing%20hack/py/levels/360-14.txt)
+##### D, E, and I
 - [361-1](https://github.com/S-W-dev/TypeHack1O1/blob/master/Typing%20hack/py/levels/361-1.txt)
 - [361-2](https://github.com/S-W-dev/TypeHack1O1/blob/master/Typing%20hack/py/levels/361-2.txt)
 - [361-3](https://github.com/S-W-dev/TypeHack1O1/blob/master/Typing%20hack/py/levels/361-3.txt)
@@ -40,6 +44,7 @@
 - [361-9](https://github.com/S-W-dev/TypeHack1O1/blob/master/Typing%20hack/py/levels/361-9.txt)
 - [361-10](https://github.com/S-W-dev/TypeHack1O1/blob/master/Typing%20hack/py/levels/361-10.txt)
 - [361-11](https://github.com/S-W-dev/TypeHack1O1/blob/master/Typing%20hack/py/levels/361-11.txt)
+##### C, G, and N
 - [363-1](https://github.com/S-W-dev/TypeHack1O1/blob/master/Typing%20hack/py/levels/363-1.txt)
 - [363-2](https://github.com/S-W-dev/TypeHack1O1/blob/master/Typing%20hack/py/levels/363-2.txt)
 - [363-3](https://github.com/S-W-dev/TypeHack1O1/blob/master/Typing%20hack/py/levels/363-3.txt)
@@ -52,6 +57,7 @@
 - [363-10](https://github.com/S-W-dev/TypeHack1O1/blob/master/Typing%20hack/py/levels/363-10.txt)
 - [363-11](https://github.com/S-W-dev/TypeHack1O1/blob/master/Typing%20hack/py/levels/363-11.txt)
 - [363-12](https://github.com/S-W-dev/TypeHack1O1/blob/master/Typing%20hack/py/levels/363-12.txt)
+##### T, S, and L
 - [366-1](https://github.com/S-W-dev/TypeHack1O1/blob/master/Typing%20hack/py/levels/366-1.txt)
 - [366-2](https://github.com/S-W-dev/TypeHack1O1/blob/master/Typing%20hack/py/levels/366-2.txt)
 - [366-3](https://github.com/S-W-dev/TypeHack1O1/blob/master/Typing%20hack/py/levels/366-3.txt)
@@ -64,6 +70,7 @@
 - [366-10](https://github.com/S-W-dev/TypeHack1O1/blob/master/Typing%20hack/py/levels/366-10.txt)
 - [366-11](https://github.com/S-W-dev/TypeHack1O1/blob/master/Typing%20hack/py/levels/366-11.txt)
 - [366-12](https://github.com/S-W-dev/TypeHack1O1/blob/master/Typing%20hack/py/levels/366-12.txt)
+##### Beginner Review 1
 - [382-1](https://github.com/S-W-dev/TypeHack1O1/blob/master/Typing%20hack/py/levels/382-1.txt)
 - [382-2](https://github.com/S-W-dev/TypeHack1O1/blob/master/Typing%20hack/py/levels/382-2.txt)
 - [382-3](https://github.com/S-W-dev/TypeHack1O1/blob/master/Typing%20hack/py/levels/382-3.txt)
