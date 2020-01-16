@@ -1,6 +1,6 @@
 # TypeHack1O1
 
-## Release Notes
+## Release Notes 
 
 [click here](docs/release.md) for the full list of release notes for all versions.
 
